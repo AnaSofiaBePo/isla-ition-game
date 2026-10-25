@@ -101,4 +101,6 @@ El código está organizado por secciones dentro de `index.html`: utilidades, so
 
 ## Licencia
 
-Pendiente de elegir.
+© 2026 AnaSofiaBePo. Todos los derechos reservados.
+
+Este proyecto no es de código abierto. El código, el diseño y los contenidos se publican solo para poder jugarlo en línea. No está permitido copiarlos, modificarlos ni redistribuirlos sin permiso del autor.
